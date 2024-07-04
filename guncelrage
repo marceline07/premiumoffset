@@ -77,3 +77,4 @@ int predection4 = 48 // 0x30
 int predection5 = 52 //  // 0x34
 int predection6 = 36 //  // 0x24
 int predection7 = 40 //  // 0x28
+int silent4c = 76 //  // 0x4c
