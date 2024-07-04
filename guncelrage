@@ -60,7 +60,7 @@ int flyhackoff = 200 //// // private float maxVelocity 0xC8
 int adminkorumasi = 96 //// // public bool AllowRunFromServer 0x60
 int baseproject = 736 // public BaseProjectile.Magazine primaryMagazine 0x2E0
 int viewmatrix = 1108 // LocalGamePos = read<Vector3>((int)LocalPlayer.pViewMatrix + 0x454) if (LocalGamePos.Zero()) continue
-int esponemli = 456 // 0x1C8 Vector3 PlayerGamePos = readchain<Vector3>((int)player_object_address.player, { isvisible, 0x1C8 })
+int esponemli = 464 // 0x1C8 Vector3 PlayerGamePos = readchain<Vector3>((int)player_object_address.player, { isvisible, 0x1d8 })
 int getitemlist2 = 16 // 0x10
 int slotitem = 24 // 0x18
 int getbeltitems1 = 32 // 0x20
