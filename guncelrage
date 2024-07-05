@@ -1,10 +1,10 @@
-int BaseNetworkable_c = 63486480  // "Signature": "BaseNetworkable_c*"
-int MainCamera_c = 63361240  // "Signature": "MainCamera_c*"
-int ConsoleSystem_Index_c = 63428536  // "Signature": "ConsoleSystem_Index_c*"
-int Convar_Graphics_c = 63394008  // "Signature": "ConVar_Graphics_c*" // yok
+int BaseNetworkable_c = 63490840  // "Signature": "BaseNetworkable_c*"
+int MainCamera_c = 63365576   // "Signature": "MainCamera_c*"
+int ConsoleSystem_Index_c = 63432896   // "Signature": "ConsoleSystem_Index_c*"
+int Convar_Graphics_c = 63394008   // "Signature": "ConVar_Graphics_c*" // yok
 int EffectNetwork_c = 63010840 //    "Signature": "EffectNetwork_c*" // yok
-int ConVar_Admin_c = 63380840  // "Signature": "ConVar_Admin_c*" // yok
-int TOD_Sky_c = 63150776   // "Signature": "TOD_Sky_c*"
+int ConVar_Admin_c = 63380840   // "Signature": "ConVar_Admin_c*" // yok
+int TOD_Sky_c = 63155112     // "Signature": "TOD_Sky_c*"
 int oRecoilYawMin = 24 // public float recoilYawMin 0x18 
 int oRecoilYawMax = 28 // public float recoilYawMax 0x1C
 int oRecoilPitchMin = 32 // public float recoilPitchMin 0x20
