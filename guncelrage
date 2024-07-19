@@ -31,7 +31,7 @@ int isvisible2 = 580 //  0x23C) // internal bool visible     %a9bd7757e7d88f0b17
 int isdead = 628 // 0x274) // public BaseCombatEntity.LifeState lifestate
 int oplayerinventory = 2120 // 0x848, int) // public PlayerInventory inventory   %b7aac7b0b451f3da6a89e0942d926fd82879315d; 
 int itemlist = 88 // 0x58, int)// public List<Item> itemList 
-int newvelocity = 500 // // private Vector3 newVelocity 0x1EC  %a84742e4a9af8394ff5d3da725211b1aec7928ae; 
+int newvelocity = 500 // // private Vector3 newVelocity 0x1EC  %a84742e4a9af8394ff5d3da725211b1aec7928ae; güncellendi yeni
 int playerinput = 2720 // 0xAA0) // public PlayerInput input %87bec739e29cf56c04cda27c40f67d2a9b4915f5 güncellendi
 int vector3bodyangles = 68 // 0x44, VA) //     private Vector3 bodyAngles
 int clientteam = 2520 // public PlayerTeam clientTeam 0x710 %09574dff87994361e9a81a17f8ca550247d6dc9f; 
@@ -67,7 +67,7 @@ int flyhackoff = 200 //// // private float maxVelocity 0xC8
 int adminkorumasi = 96 //// // public bool AllowRunFromServer 0x60
 int baseproject = 736 // public BaseProjectile.Magazine primaryMagazine 0x2E0
 int viewmatrix = 496 // LocalGamePos = read<Vector3>((int)LocalPlayer.pViewMatrix + 0x454) if (LocalGamePos.Zero()) continue
-int esponemli = 1348 // 0x1D0 Vector3 PlayerGamePos = readchain<Vector3>((int)player_object_address.player, { isvisible, 0x1d8 }) "internal Vector3 position;" // %cf05a4f54a613d091ba0490b964fa2dd77fe6e3e; 
+int esponemli = 464 // 0x1D0 Vector3 PlayerGamePos = readchain<Vector3>((int)player_object_address.player, { isvisible, 0x1d8 }) "internal Vector3 position;" // %cf05a4f54a613d091ba0490b964fa2dd77fe6e3e; 
 int getitemlist2 = 16 // 0x10
 int slotitem = 24 // 0x18
 int getbeltitems1 = 32 // 0x20
