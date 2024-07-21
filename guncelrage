@@ -85,4 +85,4 @@ int predection5 = 52 //  // 0x34
 int predection6 = 36 //  // 0x24
 int predection7 = 40 //  // 0x28
 int silent4c = 76 //  // 0x4c
-viewmatrixgercek = 780  // 0x30C gerçek viewmetrix
+int viewmatrixgercek = 780  // 0x30C gerçek viewmetrix
