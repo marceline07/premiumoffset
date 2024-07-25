@@ -94,3 +94,5 @@ int playerlisteleri = 56 // 0x38 ListDictionary<ulong, BasePlayer> PLAYER İNVEN
 int anlamadimbisi = 341843471 // 0x14601E0F
 int anlamaloplamop = 916405641 // 0x369F3D89
 int farklasbmlsap = 788714171 // 0x2F02D2BB
+int posalmclspgs = 560145668 // 0x21632504
+int zlopasmpstoy = 1681139071 // 0x6434257F
