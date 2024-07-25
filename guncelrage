@@ -93,3 +93,4 @@ int baseplayernew = 89545456 // "Signature": "BasePlayer_c*"
 int playerlisteleri = 56 // 0x38 ListDictionary<ulong, BasePlayer> PLAYER İNVENTORYNİN 4 ALTINDA <PlayerInventory>
 int anlamadimbisi = 341843471 // 0x14601E0F
 int anlamaloplamop = 916405641 // 0x369F3D89
+int farklasbmlsap = 788714171 // 0x2F02D2BB
