@@ -67,7 +67,7 @@ int flyhackoff = 200 //// // private float maxVelocity 0xC8
 int adminkorumasi = 96 //// // public bool AllowRunFromServer 0x60
 int baseproject = 736 // public BaseProjectile.Magazine primaryMagazine 0x2E0
 int viewmatrix = 1108 // LocalGamePos = read<Vector3>((int)LocalPlayer.pViewMatrix + 0x454) if (LocalGamePos.Zero()) continue AİMBOT VE METRE İÇİN VİEWMATRİX DEĞİL.
-int esponemli = 448 // 0X1C0 0x1D0 Vector3 PlayerGamePos = readchain<Vector3>((int)player_object_address.player, { isvisible, 0x1d8 }) "internal Vector3 position;" // %cf05a4f54a613d091ba0490b964fa2dd77fe6e3e; 
+int esponemli = 464 // 0X1C0 0x1D0 Vector3 PlayerGamePos = readchain<Vector3>((int)player_object_address.player, { isvisible, 0x1d8 }) "internal Vector3 position;" // %cf05a4f54a613d091ba0490b964fa2dd77fe6e3e; 
 int getitemlist2 = 16 // 0x10
 int slotitem = 208 // 0XD0
 int getbeltitems1 = 32 // 0x20
