@@ -1,4 +1,4 @@
-cint BaseNetworkable_c = 171612440     // "Signature": "BaseNetworkable_c*"
+int BaseNetworkable_c = 171612440     // "Signature": "BaseNetworkable_c*"
 int MainCamera_c = 171226272       // "Signature": "MainCamera_c*"
 int ConsoleSystem_Index_c = 171224480     // "Signature": "ConsoleSystem_Index_c*"
 int Convar_Graphics_c = 63394008               // "Signature": "ConVar_Graphics_c*" //  388842a6f86dd4568447af8ab40b01b8e84b3b71_TypeInfo
