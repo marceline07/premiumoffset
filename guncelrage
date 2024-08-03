@@ -1,4 +1,4 @@
-int BaseNetworkable_c = 171612440     // "Signature": "BaseNetworkable_c*"
+cint BaseNetworkable_c = 171612440     // "Signature": "BaseNetworkable_c*"
 int MainCamera_c = 171226272       // "Signature": "MainCamera_c*"
 int ConsoleSystem_Index_c = 171224480     // "Signature": "ConsoleSystem_Index_c*"
 int Convar_Graphics_c = 63394008               // "Signature": "ConVar_Graphics_c*" //  388842a6f86dd4568447af8ab40b01b8e84b3b71_TypeInfo
@@ -27,7 +27,7 @@ int health = 644 // 0x27C) //protected float _health           %e8dc13ef57aa859f
 int maxhealth = 640 // 0x280) //protected float _maxHealth     %5efa0e0536b6b3ca6d3d1ab64e7985557b600aed; 
 int playerflags = 2656 // 0xB40 ) // public BasePlayer.PlayerFlags playerFlags 20 TEMMUZ GÜNCEL 1
 int isvisible = 2904 //  0x958) // public PlayerModel playerModel %54e427b094c81dbd4d13d39de419915c179e7100; yenü  1
-int isvisible2 = 580 //  0x23C) // internal bool visible     %a9bd7757e7d88f0b17a6ef9cc1f6375aa509f387;  1
+int isvisible2 = 564 //  0x23C) // internal bool visible     %a9bd7757e7d88f0b17a6ef9cc1f6375aa509f387;  1
 int isdead = 628 // 0x274) // public BaseCombatEntity.LifeState lifestate 1
 int oplayerinventory = 3056 // 0x8F0, int) // public PlayerInventory inventory   %b7aac7b0b451f3da6a89e0942d926fd82879315d;  1
 int itemlist = 96 // 0x70, int)// public List<Item> itemList  1
