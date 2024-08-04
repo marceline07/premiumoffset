@@ -91,4 +91,4 @@ int degismeyebilir = 17 // 0x11
 int il2cppgchandlebase = 91370896 // 0x5723590
 int baseplayernew = 171666568 // "Signature": "BasePlayer_c*"
 int playerlisteleri = 48 // 0x30 
-int komoko = 20 // 0x30 
+int komoko = 24 // 0x18 
